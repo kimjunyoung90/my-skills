@@ -5,7 +5,7 @@
 ## 설치
 
 ```
-/plugin marketplace add kimjunyoung90/claude-plugins
+/plugin marketplace add kimjunyoung90/claude-marketplace
 /plugin install my-skills@kimjunyoung90
 ```
 
